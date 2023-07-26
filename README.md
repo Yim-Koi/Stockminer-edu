@@ -4,7 +4,8 @@ This project was a colaborative effort between Warren Borders, Hande Pehlivan, P
 
 We built an interactive, visualization platform to help users learn about different financial models and relationships. This project was written in Python using Streamlit framework. 
 
-The actual web application is available [__here__](https://huggingface.co/spaces/dataminers/ddataminers)
+The actual web application is available [__here__](https://huggingface.co/spaces/dataminers/dataminers)<br>
+Note : error encountered. Awaiting communication to retrieve missing files. 
 
 * [__Demo video/tutorial__](https://www.youtube.com/watch?v=5A_2e2OkS6o&t=0s)
 Quick tutorial on how to use the stockminer web app. 
