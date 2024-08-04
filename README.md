@@ -10,5 +10,6 @@ Note : Please let me know if you encountered errors, it usually means package(s)
 * [__Demo video/tutorial__](https://www.youtube.com/watch?v=5A_2e2OkS6o&t=0s)<br>
 Quick tutorial on how to use the stockminer web app. 
 * [__Poster Report__](https://www.youtube.com/watch?v=sIbndt1PY94&t=0s)<br>
-Our motivation, approach, evaluation and results. 
+Our motivation, approach, evaluation and results.
+
 
